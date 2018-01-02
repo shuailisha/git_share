@@ -1,0 +1,3 @@
+
+	printf("argv:%s",*argv[0]);
+	printf("argv:%s",*argv[0]);
